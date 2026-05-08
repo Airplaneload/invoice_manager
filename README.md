@@ -34,7 +34,7 @@
 ### QQ 邮箱授权码获取
 
 1. 登录 [QQ 邮箱](https://mail.qq.com/)
-2. 进入 设置 → 账户 → 安全
+2. 进入 设置 → 账户与安全
 3. 找到 POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务
 4. 开启 IMAP/SMTP 服务
 5. 按提示发送短信获取授权码
