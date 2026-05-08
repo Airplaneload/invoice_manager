@@ -1,0 +1,10 @@
+# 日志文件
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE 配置
+.idea/
+.vscode/
