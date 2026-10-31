@@ -1,0 +1,7 @@
+{
+    "email": "",
+    "auth_code": "",
+    "download_dir": "./invoices",
+    "auto_download": false,
+    "check_interval": 300
+}

@@ -8,3 +8,17 @@ __pycache__/
 # IDE 配置
 .idea/
 .vscode/
+
+# 本地开发环境、构建工具及私有下载测试资料
+.venv/
+tools/python312/
+tools/wheels/
+tools/recovered/
+validation_downloads/
+invoice_manager_gui/config.json
+invoice_manager_gui/_internal/config.json
+invoice_manager_gui/invoice_metadata.json
+invoice_manager_gui/invoice_manager_gui.original.exe
+invoice_manager_gui/invoices/
+invoices/
+*.new.exe
